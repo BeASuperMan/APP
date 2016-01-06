@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jfb315.happySKB</string>
+				<string>com.SKB2016.SKB2016</string>
 				<key>bundle-version</key>
-				<string>1.1.3</string>
+				<string>1.1.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
